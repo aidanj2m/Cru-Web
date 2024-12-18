@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            background: #1a1a1a;
+            color: white;
+            font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+            display: flex;
+        }
+
+        .container {
+            padding: 20px;
+            flex: 1;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .container::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 400px;
+            background: linear-gradient(to bottom, transparent 20%, rgba(0, 122, 255, 0.1));
+            pointer-events: none;
+        }
+
+        .header {
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+        }
+
+        .logo {
+            font-size: 32px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            font-family: 'Ubuntu', sans-serif;
+        }
+
+        .logo span {
+            color: #007AFF;
+        }
+
+        .active-circles {
+            font-size: 16px;
+            color: #888;
+            margin-top: 0;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 8px;
+            margin-top: 30px;
+            width: 100%;
+            padding-right: 20px;
+        }
+
+        .btn {
+            flex: 1;
+            max-width: 160px;
+            padding: 10px 16px;
+            border-radius: 12px;
+            background: linear-gradient(to right, #1e1e1e, #2d2d2d);
+            border: 1px solid rgba(255,255,255,0.2);
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            height: 42px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .create-icon {
+            width: 14px;
+            height: 14px;
+            object-fit: contain;
+            margin-right: 0;
+        }
+
+        .join-icon {
+            width: 18px;
+            height: 18px;
+            object-fit: contain;
+            margin-right: 2px;
+        }
+
+        .divider {
+            width: 1px;
+            background: rgba(0,0,255,0.4);
+            height: 100vh;
+        }
+
+        .middle-section {
+            flex: 2;
+            padding: 20px;
+        }
+
+        .right-section {
+            flex: 1;
+            padding: 20px;
+        }
+
+        .header-divider {
+            width: 100%;
+            height: 1px;
+            background: rgba(255,255,255,0.15);
+            margin-top: 20px;
+            margin-right: 20px;
+        }
+
+        .gray-box {
+            width: calc(100% - 40px);
+            margin-top: 20px;
+            padding: 16px;
+            background: #2a2a2a;
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 12px;
+            height: 50px;
+            display: flex;
+            align-items: center;
+        }
+
+        .box-square {
+            width: 40px;
+            height: 40px;
+            background: #000;
+            border-radius: 6px;
+            margin-right: 12px;
+        }
+
+        .box-text {
+            color: white;
+            font-size: 16px;
+        }
+
+        .post {
+            display: flex;
+            gap: 12px;
+            align-items: flex-start;
+        }
+
+        .post-avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: #333;
+        }
+
+        .post-content {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .post-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .post-author {
+            font-size: 20px;
+            font-weight: 500;
+        }
+
+        .post-time {
+            color: #888;
+            font-size: 16px;
+        }
+
+        .post-title {
+            font-size: 24px;
+            font-weight: normal;
+        }
+
+        .post-image {
+            width: 250px;
+            height: 250px;
+            background: #2a2a2a;
+            border-radius: 12px;
+            margin-top: 12px;
+        }
+
+        .post-content img {
+            max-width: 100%;
+            border-radius: 12px;
+            margin-top: 12px;
+        }
+
+        .post-content .smiley-icon {
+            width: 25px;
+            height: 25px;
+            border-radius: 12px;
+            margin-top: 12px;
+        }
+
+        .post-content .comment-icon {
+            width: 25px;
+            height: 25px;
+            border-radius: 0;
+            margin-top: 12px;
+        }
+
+        .post-actions {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-top: 12px;
+        }
+
+        .post-actions-left {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .comment-icon {
+            width: 25px;
+            height: 25px;
+            object-fit: contain;
+        }
+
+        /* Add style for the full-width divider */
+        .full-width-divider {
+            width: calc(100% + 40px);
+            height: 1px;
+            background: rgba(255,255,255,0.15);
+            margin: 30px -20px;
+        }
+
+        /* Member list styles */
+        .member-list-title {
+            font-size: 24px;
+            font-weight: 500;
+            margin-bottom: 20px;
+        }
+
+        .member-list {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .member-item {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 8px 0;
+        }
+
+        .member-avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: #333;
+            overflow: hidden;
+        }
+
+        .member-name {
+            font-size: 20px;
+            font-weight: normal;
+        }
+
+        .member-divider {
+            height: 1px;
+            background: rgba(255,255,255,0.15);
+            width: 100%;
+        }
+
+        /* Group overview styles */
+        .group-overview {
+            background: #2a2a2a;
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 12px;
+            padding: 16px;
+            margin-bottom: 30px;
+        }
+
+        .group-name {
+            font-size: 24px;
+            font-weight: 500;
+            margin-bottom: 8px;
+        }
+
+        .group-details {
+            color: #888;
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+
+        .group-actions {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 30px;
+        }
+
+        .action-btn {
+            flex: 1;
+            max-width: 160px;
+            padding: 10px 16px;
+            border-radius: 12px;
+            background: #2a2a2a;
+            border: none;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            height: 42px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .action-btn img {
+            width: 18px;
+            height: 18px;
+            object-fit: contain;
+        }
+
+        .emoji-icon {
+            font-size: 18px;
+            line-height: 1;
+        }
+
+        .group-square {
+            width: 40px;
+            height: 40px;
+            background: #000;
+            border-radius: 6px;
+            margin-right: 12px;
+            flex-shrink: 0;
+        }
+
+        .group-content {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+            text-align: center;
+        }
+
+        .group-text-container {
+            flex: 1;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">Cr<span>ü</span></div>
+            <div class="active-circles">0 active circles</div>
+            <div class="button-group">
+                <button class="btn">
+                    <img src="plusforcreate.png" class="create-icon" alt="create icon">
+                    Create
+                </button>
+                <button class="btn">
+                    <img src="membericon.png" class="join-icon" alt="member icon">
+                    Join
+                </button>
+            </div>
+            <div class="header-divider"></div>
+            <div class="gray-box">
+                <div class="box-square"></div>
+                <div class="box-text">Crü name</div>
+            </div>
+        </div>
+    </div>
+    <div class="divider"></div>
+    <div class="middle-section">
+        <div class="post">
+            <div class="post-avatar"></div>
+            <div class="post-content">
+                <div class="post-header">
+                    <span class="post-author">user name</span>
+                    <span class="post-time">· 1h</span>
+                </div>
+                <h1 class="post-title">buttcheeks</h1>
+                <div class="post-image"></div>
+                <div class="post-actions">
+                    <div class="post-actions-left">
+                        <img src="smileyicon.png" class="smiley-icon" alt="smiley icon">
+                        <img src="commenticon.png" class="comment-icon" alt="comment icon">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="full-width-divider"></div>
+    </div>
+    <div class="divider"></div>
+    <div class="right-section">
+        <div class="group-overview">
+            <div class="group-content">
+                <div class="group-square"></div>
+                <div class="group-text-container">
+                    <div class="group-name">More guys + grace</div>
+                    <div class="group-details">Tap to edit group details</div>
+                </div>
+            </div>
+        </div>
+        <div class="group-actions">
+            <button class="action-btn">
+                <span class="emoji-icon">🎟️</span>
+                Invite
+            </button>
+            <button class="action-btn">
+                <span class="emoji-icon">🏃‍♀️</span>
+                Leave
+            </button>
+        </div>
+        <h2 class="member-list-title">Crü Members</h2>
+        <div class="member-list">
+            <div class="member-item">
+                <div class="member-avatar"></div>
+                <div class="member-name">Theo</div>
+            </div>
+            <div class="member-divider"></div>
+            <div class="member-item">
+                <div class="member-avatar"></div>
+                <div class="member-name">Grace de</div>
+            </div>
+            <div class="member-divider"></div>
+            <div class="member-item">
+                <div class="member-avatar"></div>
+                <div class="member-name">Ayan</div>
+            </div>
+            <div class="member-divider"></div>
+            <div class="member-item">
+                <div class="member-avatar"></div>
+                <div class="member-name">Harry</div>
+            </div>
+            <div class="member-divider"></div>
+            <div class="member-item">
+                <div class="member-avatar"></div>
+                <div class="member-name">Owen</div>
+            </div>
+            <div class="member-divider"></div>
+            <div class="member-item">
+                <div class="member-avatar"></div>
+                <div class="member-name">Aidan</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
