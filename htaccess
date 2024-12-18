@@ -1,0 +1,54 @@
+# Enable URL rewriting
+RewriteEngine On
+Options +FollowSymLinks
+
+# Security Headers
+Header set Content-Security-Policy "default-src 'self' https://www.meetcru.com https://apps.apple.com https://fonts.googleapis.com https://fonts.gstatic.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' https://www.meetcru.com; script-src 'self' 'unsafe-inline';"
+Header set X-Frame-Options "DENY"
+Header set X-Content-Type-Options "nosniff"
+Header set Referrer-Policy "strict-origin-when-cross-origin"
+Header set Permissions-Policy "geolocation=(), microphone=(), camera=()"
+Header set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+
+# Enable Apache's mod_headers
+<IfModule mod_headers.c>
+    Header set X-XSS-Protection "1; mode=block"
+</IfModule>
+
+# Force HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Handle apple-app-site-association file
+<Files "apple-app-site-association">
+    ForceType 'application/json'
+    Header set Content-Type application/json
+    Header set Access-Control-Allow-Origin "*"
+    Header unset Content-Disposition
+    Header set Cache-Control "no-cache"
+</Files>
+
+# Handle join URLs - redirect to join.php with code parameter
+RewriteCond %{REQUEST_URI} ^/join/([A-Za-z0-9]+)/?$
+RewriteRule ^join/([A-Za-z0-9]+)/?$ /join.php?code=$1 [L,QSA]
+
+# Allow access to .well-known
+RewriteRule ^\.well-known/ - [L]
+
+# Prevent join.php from redirecting
+RewriteCond %{REQUEST_URI} !^/join\.php
+
+# Only redirect 404s to index.html if they're not join URLs
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /index.html [L]
+
+# Add CORS headers for apple-app-site-association
+<FilesMatch "apple-app-site-association">
+    Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
+
+# Add headers for social preview images
+<FilesMatch "generate-preview\.php$">
+    Header set Cache-Control "public, max-age=86400"
+</FilesMatch>

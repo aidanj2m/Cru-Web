@@ -1,0 +1,477 @@
+[12-Dec-2024 11:49:17 America/Boise] PHP Warning:  readfile(/tmp/preview_wsYvuB.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:49:17 America/Boise] PHP Warning:  unlink(/tmp/preview_wsYvuB.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:49:31 America/Boise] PHP Warning:  readfile(/tmp/preview_ltT2g0.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:49:31 America/Boise] PHP Warning:  unlink(/tmp/preview_ltT2g0.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:52:02 America/Boise] PHP Warning:  readfile(/tmp/preview_X3z7wl.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:52:02 America/Boise] PHP Warning:  unlink(/tmp/preview_X3z7wl.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:52:16 America/Boise] PHP Warning:  readfile(/tmp/preview_PBIKiY.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:52:16 America/Boise] PHP Warning:  unlink(/tmp/preview_PBIKiY.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:52:17 America/Boise] PHP Warning:  readfile(/tmp/preview_z87q1u.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:52:17 America/Boise] PHP Warning:  unlink(/tmp/preview_z87q1u.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:52:24 America/Boise] PHP Warning:  readfile(/tmp/preview_utHINV.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:52:24 America/Boise] PHP Warning:  unlink(/tmp/preview_utHINV.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:52:25 America/Boise] PHP Warning:  readfile(/tmp/preview_GNXPMn.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:52:25 America/Boise] PHP Warning:  unlink(/tmp/preview_GNXPMn.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:52:59 America/Boise] PHP Warning:  readfile(/tmp/preview_aFKa0M.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:52:59 America/Boise] PHP Warning:  unlink(/tmp/preview_aFKa0M.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:53:03 America/Boise] PHP Warning:  readfile(/tmp/preview_BgLDzT.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:53:03 America/Boise] PHP Warning:  unlink(/tmp/preview_BgLDzT.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:53:04 America/Boise] PHP Warning:  readfile(/tmp/preview_5aYjda.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:53:04 America/Boise] PHP Warning:  unlink(/tmp/preview_5aYjda.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:53:04 America/Boise] PHP Warning:  readfile(/tmp/preview_qwwQHc.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:53:04 America/Boise] PHP Warning:  unlink(/tmp/preview_qwwQHc.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:53:20 America/Boise] PHP Warning:  readfile(/tmp/preview_s4g4Rn.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:53:20 America/Boise] PHP Warning:  unlink(/tmp/preview_s4g4Rn.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:53:21 America/Boise] PHP Warning:  readfile(/tmp/preview_AMJQEl.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:53:21 America/Boise] PHP Warning:  unlink(/tmp/preview_AMJQEl.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:53:21 America/Boise] PHP Warning:  readfile(/tmp/preview_e2SHcx.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:53:21 America/Boise] PHP Warning:  unlink(/tmp/preview_e2SHcx.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:53:28 America/Boise] PHP Warning:  readfile(/tmp/preview_OFMSs2.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:53:28 America/Boise] PHP Warning:  unlink(/tmp/preview_OFMSs2.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:53:28 America/Boise] PHP Warning:  readfile(/tmp/preview_7pgjqA.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:53:28 America/Boise] PHP Warning:  unlink(/tmp/preview_7pgjqA.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:53:29 America/Boise] PHP Warning:  readfile(/tmp/preview_7nhCB0.png): Failed to open stream: No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 23
+[12-Dec-2024 11:53:29 America/Boise] PHP Warning:  unlink(/tmp/preview_7nhCB0.png): No such file or directory in /home1/tzyexbmy/public_html/generate-preview.php on line 27
+[12-Dec-2024 11:54:38 America/Boise] PHP Warning:  imagettfbbox(): Could not find/open font in /home1/tzyexbmy/public_html/generate-preview.php on line 41
+[12-Dec-2024 11:54:38 America/Boise] PHP Warning:  Trying to access array offset on value of type bool in /home1/tzyexbmy/public_html/generate-preview.php on line 42
+[12-Dec-2024 11:54:38 America/Boise] PHP Warning:  Trying to access array offset on value of type bool in /home1/tzyexbmy/public_html/generate-preview.php on line 42
+[12-Dec-2024 11:54:38 America/Boise] PHP Warning:  imagettftext(): Could not find/open font in /home1/tzyexbmy/public_html/generate-preview.php on line 44
+[12-Dec-2024 11:54:38 America/Boise] PHP Warning:  imagettfbbox(): Could not find/open font in /home1/tzyexbmy/public_html/generate-preview.php on line 49
+[12-Dec-2024 11:54:38 America/Boise] PHP Warning:  Trying to access array offset on value of type bool in /home1/tzyexbmy/public_html/generate-preview.php on line 50
+[12-Dec-2024 11:54:38 America/Boise] PHP Warning:  Trying to access array offset on value of type bool in /home1/tzyexbmy/public_html/generate-preview.php on line 50
+[12-Dec-2024 11:54:38 America/Boise] PHP Warning:  imagettftext(): Could not find/open font in /home1/tzyexbmy/public_html/generate-preview.php on line 52
+[12-Dec-2024 11:54:38 America/Boise] PHP Warning:  imagettfbbox(): Could not find/open font in /home1/tzyexbmy/public_html/generate-preview.php on line 57
+[12-Dec-2024 11:54:38 America/Boise] PHP Warning:  Trying to access array offset on value of type bool in /home1/tzyexbmy/public_html/generate-preview.php on line 58
+[12-Dec-2024 11:54:38 America/Boise] PHP Warning:  Trying to access array offset on value of type bool in /home1/tzyexbmy/public_html/generate-preview.php on line 58
+[12-Dec-2024 11:54:38 America/Boise] PHP Warning:  imagettftext(): Could not find/open font in /home1/tzyexbmy/public_html/generate-preview.php on line 60
+[12-Dec-2024 11:55:29 America/Boise] PHP Deprecated:  Implicit conversion from float 568.5 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 89
+[12-Dec-2024 11:55:29 America/Boise] PHP Deprecated:  Implicit conversion from float 550.5 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 94
+[12-Dec-2024 11:55:30 America/Boise] PHP Deprecated:  Implicit conversion from float 568.5 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 89
+[12-Dec-2024 11:55:30 America/Boise] PHP Deprecated:  Implicit conversion from float 550.5 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 94
+[12-Dec-2024 12:16:44 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: Imagick::shadowImage() expects exactly 4 arguments, 5 given in /home1/tzyexbmy/public_html/generate-preview.php:24
+Stack trace:
+#0 /home1/tzyexbmy/public_html/generate-preview.php(24): Imagick->shadowImage(80, 3, 0, 0, 'rgb(0, 0, 0, 0....')
+#1 {main}
+  thrown in /home1/tzyexbmy/public_html/generate-preview.php on line 24
+[12-Dec-2024 12:16:46 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: Imagick::shadowImage() expects exactly 4 arguments, 5 given in /home1/tzyexbmy/public_html/generate-preview.php:24
+Stack trace:
+#0 /home1/tzyexbmy/public_html/generate-preview.php(24): Imagick->shadowImage(80, 3, 0, 0, 'rgb(0, 0, 0, 0....')
+#1 {main}
+  thrown in /home1/tzyexbmy/public_html/generate-preview.php on line 24
+[12-Dec-2024 12:17:09 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: Imagick::shadowImage() expects exactly 4 arguments, 5 given in /home1/tzyexbmy/public_html/generate-preview.php:24
+Stack trace:
+#0 /home1/tzyexbmy/public_html/generate-preview.php(24): Imagick->shadowImage(80, 3, 0, 0, 'rgb(0, 0, 0, 0....')
+#1 {main}
+  thrown in /home1/tzyexbmy/public_html/generate-preview.php on line 24
+[12-Dec-2024 12:20:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Imagick::roundRectangle() in /home1/tzyexbmy/public_html/generate-preview.php:32
+Stack trace:
+#0 {main}
+  thrown in /home1/tzyexbmy/public_html/generate-preview.php on line 32
+[12-Dec-2024 12:23:49 America/Boise] Image generation error: The path does not exist: /home1/tzyexbmy/public_html/Arial
+[12-Dec-2024 12:24:14 America/Boise] Image generation error: The path does not exist: /home1/tzyexbmy/public_html/Arial
+[12-Dec-2024 12:24:16 America/Boise] Image generation error: The path does not exist: /home1/tzyexbmy/public_html/Arial
+[12-Dec-2024 12:33:37 America/Boise] Starting image generation...
+[12-Dec-2024 12:33:37 America/Boise] Image generation failed: The path does not exist: /home1/tzyexbmy/public_html/Arial-Bold
+[12-Dec-2024 13:00:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Imagick::setImageBorderWidth() in /home1/tzyexbmy/public_html/generate-preview.php:45
+Stack trace:
+#0 {main}
+  thrown in /home1/tzyexbmy/public_html/generate-preview.php on line 45
+[12-Dec-2024 13:23:22 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: 
+[12-Dec-2024 13:23:29 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: 
+[12-Dec-2024 13:23:55 America/Boise] Generating preview for code: A21957, group: Slimes, image: 
+[12-Dec-2024 13:25:11 America/Boise] Starting preview generation
+[12-Dec-2024 13:25:11 America/Boise] Code: A21957
+[12-Dec-2024 13:25:11 America/Boise] Group: Slimes
+[12-Dec-2024 13:25:11 America/Boise] Image URL: none
+[12-Dec-2024 13:25:11 America/Boise] No group image URL provided, using default Cru icon
+[12-Dec-2024 13:25:15 America/Boise] Starting preview generation
+[12-Dec-2024 13:25:15 America/Boise] Code: A21957
+[12-Dec-2024 13:25:15 America/Boise] Group: Slimes
+[12-Dec-2024 13:25:15 America/Boise] Image URL: none
+[12-Dec-2024 13:25:15 America/Boise] No group image URL provided, using default Cru icon
+[12-Dec-2024 13:27:02 America/Boise] Generating preview for code: A21957, group: Slimes, image: 
+[12-Dec-2024 13:27:10 America/Boise] Generating preview for code: A21957, group: Slimes, image: 
+[12-Dec-2024 13:28:15 America/Boise] Generating preview for code: A21957, group: Slimes, image: 
+[12-Dec-2024 13:28:19 America/Boise] Generating preview for code: A21957, group: Slimes, image: 
+[12-Dec-2024 13:28:32 America/Boise] Generating preview for code: RS92JU, group: Diddys Disciples, image: 
+[12-Dec-2024 13:29:56 America/Boise] Generating preview for code: RS92JU, group: Diddys Disciples, image: 
+[12-Dec-2024 13:31:38 America/Boise] Generating preview for code: RS92JU, group: Diddys Disciples, image: 
+[12-Dec-2024 13:32:52 America/Boise] Generating preview for code: RS92JU, group: Diddys Disciples, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/9499B376-CE89-4F9F-BD8A-569CC77D2AE4.jpg
+[12-Dec-2024 13:32:52 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/9499B376-CE89-4F9F-BD8A-569CC77D2AE4.jpg
+[12-Dec-2024 13:32:53 America/Boise] Successfully downloaded image data: 343727 bytes
+[12-Dec-2024 13:32:54 America/Boise] Successfully processed group image
+[12-Dec-2024 13:33:17 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 13:33:17 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 13:33:17 America/Boise] Successfully downloaded image data: 25036 bytes
+[12-Dec-2024 13:33:17 America/Boise] Successfully processed group image
+[12-Dec-2024 13:54:38 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 13:54:38 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 13:54:38 America/Boise] Successfully downloaded image data: 25036 bytes
+[12-Dec-2024 13:54:38 America/Boise] Successfully processed group image
+[12-Dec-2024 13:56:19 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 13:56:19 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 13:56:19 America/Boise] Successfully downloaded image data: 25036 bytes
+[12-Dec-2024 13:56:19 America/Boise] PHP Deprecated:  Implicit conversion from float 297.7667493796526 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 78
+[12-Dec-2024 13:56:19 America/Boise] PHP Deprecated:  Implicit conversion from float 28.883374689826297 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 81
+[12-Dec-2024 13:56:19 America/Boise] Successfully processed group image
+[12-Dec-2024 13:56:27 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 13:56:27 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 13:56:27 America/Boise] Successfully downloaded image data: 25036 bytes
+[12-Dec-2024 13:56:27 America/Boise] PHP Deprecated:  Implicit conversion from float 297.7667493796526 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 78
+[12-Dec-2024 13:56:27 America/Boise] PHP Deprecated:  Implicit conversion from float 28.883374689826297 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 81
+[12-Dec-2024 13:56:27 America/Boise] Successfully processed group image
+[12-Dec-2024 13:57:38 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 13:57:38 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 13:57:38 America/Boise] Successfully downloaded image data: 25036 bytes
+[12-Dec-2024 13:57:38 America/Boise] Successfully processed group image
+[12-Dec-2024 14:00:39 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:00:39 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:00:39 America/Boise] Successfully downloaded image data: 25036 bytes
+[12-Dec-2024 14:00:39 America/Boise] PHP Deprecated:  Implicit conversion from float 239.99999999999997 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 78
+[12-Dec-2024 14:00:39 America/Boise] PHP Deprecated:  Implicit conversion from float 297.7667493796526 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 78
+[12-Dec-2024 14:00:40 America/Boise] PHP Deprecated:  Implicit conversion from float -1.4210854715202004E-14 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 83
+[12-Dec-2024 14:00:40 America/Boise] PHP Deprecated:  Implicit conversion from float 28.883374689826297 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 83
+[12-Dec-2024 14:00:40 America/Boise] Successfully processed group image
+[12-Dec-2024 14:00:47 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:00:47 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:00:48 America/Boise] Successfully downloaded image data: 25036 bytes
+[12-Dec-2024 14:00:48 America/Boise] PHP Deprecated:  Implicit conversion from float 239.99999999999997 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 78
+[12-Dec-2024 14:00:48 America/Boise] PHP Deprecated:  Implicit conversion from float 297.7667493796526 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 78
+[12-Dec-2024 14:00:48 America/Boise] PHP Deprecated:  Implicit conversion from float -1.4210854715202004E-14 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 83
+[12-Dec-2024 14:00:48 America/Boise] PHP Deprecated:  Implicit conversion from float 28.883374689826297 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 83
+[12-Dec-2024 14:00:48 America/Boise] Successfully processed group image
+[12-Dec-2024 14:02:28 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:02:28 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:02:29 America/Boise] Successfully downloaded image data: 25036 bytes
+[12-Dec-2024 14:02:29 America/Boise] Successfully processed group image
+[12-Dec-2024 14:03:02 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:03:02 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:03:02 America/Boise] Successfully downloaded image data: 25036 bytes
+[12-Dec-2024 14:03:02 America/Boise] Successfully processed group image
+[12-Dec-2024 14:11:00 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:11:00 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:11:00 America/Boise] Successfully downloaded image data: 25036 bytes
+[12-Dec-2024 14:11:00 America/Boise] PHP Deprecated:  Implicit conversion from float 239.99999999999997 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 70
+[12-Dec-2024 14:11:00 America/Boise] PHP Deprecated:  Implicit conversion from float 297.7667493796526 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 70
+[12-Dec-2024 14:11:00 America/Boise] PHP Deprecated:  Implicit conversion from float -1.4210854715202004E-14 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 75
+[12-Dec-2024 14:11:00 America/Boise] PHP Deprecated:  Implicit conversion from float 28.883374689826297 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 75
+[12-Dec-2024 14:11:00 America/Boise] Successfully processed group image
+[12-Dec-2024 14:11:09 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:11:09 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:11:09 America/Boise] Successfully downloaded image data: 25036 bytes
+[12-Dec-2024 14:11:09 America/Boise] PHP Deprecated:  Implicit conversion from float 239.99999999999997 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 70
+[12-Dec-2024 14:11:09 America/Boise] PHP Deprecated:  Implicit conversion from float 297.7667493796526 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 70
+[12-Dec-2024 14:11:09 America/Boise] PHP Deprecated:  Implicit conversion from float -1.4210854715202004E-14 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 75
+[12-Dec-2024 14:11:09 America/Boise] PHP Deprecated:  Implicit conversion from float 28.883374689826297 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 75
+[12-Dec-2024 14:11:09 America/Boise] Successfully processed group image
+[12-Dec-2024 14:12:35 America/Boise] Starting preview generation with params - code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:12:35 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:12:35 America/Boise] Created stream context, attempting to load image
+[12-Dec-2024 14:12:35 America/Boise] Successfully downloaded image data: 25036 bytes
+[12-Dec-2024 14:12:35 America/Boise] Created new Imagick object
+[12-Dec-2024 14:12:35 America/Boise] Successfully read image blob
+[12-Dec-2024 14:12:35 America/Boise] Resized image
+[12-Dec-2024 14:12:35 America/Boise] Successfully processed group image
+[12-Dec-2024 14:12:35 America/Boise] Compositing group image onto main canvas
+[12-Dec-2024 14:12:35 America/Boise] Creating text settings
+[12-Dec-2024 14:12:35 America/Boise] Preparing to output image
+[12-Dec-2024 14:12:35 America/Boise] Completed preview generation successfully
+[12-Dec-2024 14:14:47 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:14:47 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:14:48 America/Boise] Successfully downloaded image data: 25036 bytes
+[12-Dec-2024 14:14:48 America/Boise] Successfully processed group image
+[12-Dec-2024 14:29:45 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:29:45 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 14:29:45 America/Boise] Successfully downloaded image data: 25036 bytes
+[12-Dec-2024 14:29:45 America/Boise] Successfully processed group image
+[12-Dec-2024 15:48:29 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[12-Dec-2024 15:48:29 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[12-Dec-2024 15:48:30 America/Boise] Successfully downloaded image data: 17362 bytes
+[12-Dec-2024 15:48:30 America/Boise] Successfully processed group image
+[12-Dec-2024 15:49:45 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 15:49:45 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 15:49:46 America/Boise] Successfully downloaded image data: 25036 bytes
+[12-Dec-2024 15:49:46 America/Boise] Successfully processed group image
+[12-Dec-2024 15:50:00 America/Boise] Generating preview for code: A21957, group: Slimes, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/203AC06A-9721-49B3-A97F-15BFE674368D.jpg
+[12-Dec-2024 15:50:00 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/203AC06A-9721-49B3-A97F-15BFE674368D.jpg
+[12-Dec-2024 15:50:00 America/Boise] Successfully downloaded image data: 10575 bytes
+[12-Dec-2024 15:50:01 America/Boise] Successfully processed group image
+[12-Dec-2024 15:51:50 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 15:51:50 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 15:51:51 America/Boise] Successfully downloaded image data: 30387 bytes
+[12-Dec-2024 15:51:51 America/Boise] Successfully processed group image
+[12-Dec-2024 15:58:16 America/Boise] Generating preview for code: EC910D, group: Slime de Belief, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/A5FF0A74-D2FE-4DA0-B1B6-999778F133B2.jpg
+[12-Dec-2024 15:58:16 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/A5FF0A74-D2FE-4DA0-B1B6-999778F133B2.jpg
+[12-Dec-2024 15:58:17 America/Boise] Successfully downloaded image data: 78381 bytes
+[12-Dec-2024 15:58:17 America/Boise] Successfully processed group image
+[12-Dec-2024 15:59:10 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 15:59:10 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 15:59:10 America/Boise] Successfully downloaded image data: 30387 bytes
+[12-Dec-2024 15:59:10 America/Boise] Successfully processed group image
+[12-Dec-2024 15:59:13 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 15:59:13 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 15:59:13 America/Boise] Successfully downloaded image data: 30387 bytes
+[12-Dec-2024 15:59:13 America/Boise] Successfully processed group image
+[12-Dec-2024 15:59:14 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 15:59:14 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 15:59:14 America/Boise] Successfully downloaded image data: 30387 bytes
+[12-Dec-2024 15:59:14 America/Boise] Successfully processed group image
+[12-Dec-2024 15:59:16 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 15:59:16 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 15:59:16 America/Boise] Successfully downloaded image data: 30387 bytes
+[12-Dec-2024 15:59:16 America/Boise] Successfully processed group image
+[12-Dec-2024 15:59:37 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 15:59:37 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 15:59:37 America/Boise] Successfully downloaded image data: 30387 bytes
+[12-Dec-2024 15:59:37 America/Boise] Successfully processed group image
+[12-Dec-2024 16:28:20 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[12-Dec-2024 16:28:20 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[12-Dec-2024 16:28:20 America/Boise] Successfully downloaded image data: 17362 bytes
+[12-Dec-2024 16:28:20 America/Boise] Successfully processed group image
+[12-Dec-2024 16:46:38 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 16:46:38 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 16:46:38 America/Boise] Successfully downloaded image data: 30387 bytes
+[12-Dec-2024 16:46:38 America/Boise] Successfully processed group image
+[12-Dec-2024 16:46:40 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 16:46:40 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 16:46:40 America/Boise] Successfully downloaded image data: 30387 bytes
+[12-Dec-2024 16:46:40 America/Boise] Successfully processed group image
+[12-Dec-2024 17:50:00 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 17:50:00 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[12-Dec-2024 17:50:00 America/Boise] Successfully downloaded image data: 25036 bytes
+[12-Dec-2024 17:50:00 America/Boise] Successfully processed group image
+[12-Dec-2024 17:50:24 America/Boise] Generating preview for code: 8A9D35, group: Testing mommy , image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/B1D9E7A3-385F-46B7-9E9C-5DE7F8C06A9D.jpg
+[12-Dec-2024 17:50:24 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/B1D9E7A3-385F-46B7-9E9C-5DE7F8C06A9D.jpg
+[12-Dec-2024 17:50:25 America/Boise] Successfully downloaded image data: 321374 bytes
+[12-Dec-2024 17:50:25 America/Boise] Successfully processed group image
+[12-Dec-2024 20:05:52 America/Boise] Generating preview for code: RS92JU, group: Diddys Disciples, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/9499B376-CE89-4F9F-BD8A-569CC77D2AE4.jpg
+[12-Dec-2024 20:05:52 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/9499B376-CE89-4F9F-BD8A-569CC77D2AE4.jpg
+[12-Dec-2024 20:05:52 America/Boise] Successfully downloaded image data: 343727 bytes
+[12-Dec-2024 20:05:53 America/Boise] Successfully processed group image
+[12-Dec-2024 20:06:59 America/Boise] Generating preview for code: RS92JU, group: Diddys Disciples, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/9499B376-CE89-4F9F-BD8A-569CC77D2AE4.jpg
+[12-Dec-2024 20:06:59 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/9499B376-CE89-4F9F-BD8A-569CC77D2AE4.jpg
+[12-Dec-2024 20:06:59 America/Boise] Successfully downloaded image data: 343727 bytes
+[12-Dec-2024 20:07:00 America/Boise] Successfully processed group image
+[12-Dec-2024 21:42:12 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[12-Dec-2024 21:42:12 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[12-Dec-2024 21:42:13 America/Boise] Successfully downloaded image data: 17362 bytes
+[12-Dec-2024 21:42:13 America/Boise] Successfully processed group image
+[12-Dec-2024 21:42:32 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[12-Dec-2024 21:42:32 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[12-Dec-2024 21:42:32 America/Boise] Successfully downloaded image data: 17362 bytes
+[12-Dec-2024 21:42:32 America/Boise] Successfully processed group image
+[12-Dec-2024 21:42:54 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[12-Dec-2024 21:42:54 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[12-Dec-2024 21:42:55 America/Boise] Successfully downloaded image data: 17362 bytes
+[12-Dec-2024 21:42:55 America/Boise] Successfully processed group image
+[12-Dec-2024 21:57:53 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[12-Dec-2024 21:57:53 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[12-Dec-2024 21:57:53 America/Boise] Successfully downloaded image data: 17362 bytes
+[12-Dec-2024 21:57:53 America/Boise] Successfully processed group image
+[12-Dec-2024 21:58:01 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[12-Dec-2024 21:58:01 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[12-Dec-2024 21:58:01 America/Boise] Successfully downloaded image data: 17362 bytes
+[12-Dec-2024 21:58:02 America/Boise] Successfully processed group image
+[12-Dec-2024 22:13:18 America/Boise] Generating preview for code: sjasjf, group: , image: 
+[12-Dec-2024 22:13:18 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: Imagick::shadowImage() expects exactly 4 arguments, 5 given in /home1/tzyexbmy/public_html/generate-preview.php:164
+Stack trace:
+#0 /home1/tzyexbmy/public_html/generate-preview.php(164): Imagick->shadowImage(80, 3, 0, 0, 'rgb(0, 0, 0)')
+#1 {main}
+  thrown in /home1/tzyexbmy/public_html/generate-preview.php on line 164
+[12-Dec-2024 22:13:53 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 22:13:53 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 22:13:54 America/Boise] Successfully downloaded image data: 30387 bytes
+[12-Dec-2024 22:13:54 America/Boise] Successfully processed group image
+[12-Dec-2024 22:13:54 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: Imagick::shadowImage() expects exactly 4 arguments, 5 given in /home1/tzyexbmy/public_html/generate-preview.php:164
+Stack trace:
+#0 /home1/tzyexbmy/public_html/generate-preview.php(164): Imagick->shadowImage(80, 3, 0, 0, 'rgb(0, 0, 0)')
+#1 {main}
+  thrown in /home1/tzyexbmy/public_html/generate-preview.php on line 164
+[12-Dec-2024 22:13:57 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 22:13:57 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 22:13:57 America/Boise] Successfully downloaded image data: 30387 bytes
+[12-Dec-2024 22:13:57 America/Boise] Successfully processed group image
+[12-Dec-2024 22:13:58 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: Imagick::shadowImage() expects exactly 4 arguments, 5 given in /home1/tzyexbmy/public_html/generate-preview.php:164
+Stack trace:
+#0 /home1/tzyexbmy/public_html/generate-preview.php(164): Imagick->shadowImage(80, 3, 0, 0, 'rgb(0, 0, 0)')
+#1 {main}
+  thrown in /home1/tzyexbmy/public_html/generate-preview.php on line 164
+[12-Dec-2024 22:14:01 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 22:14:01 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 22:14:01 America/Boise] Successfully downloaded image data: 30387 bytes
+[12-Dec-2024 22:14:01 America/Boise] Successfully processed group image
+[12-Dec-2024 22:14:01 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: Imagick::shadowImage() expects exactly 4 arguments, 5 given in /home1/tzyexbmy/public_html/generate-preview.php:164
+Stack trace:
+#0 /home1/tzyexbmy/public_html/generate-preview.php(164): Imagick->shadowImage(80, 3, 0, 0, 'rgb(0, 0, 0)')
+#1 {main}
+  thrown in /home1/tzyexbmy/public_html/generate-preview.php on line 164
+[12-Dec-2024 22:15:03 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 22:15:03 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 22:15:03 America/Boise] Successfully downloaded image data: 30387 bytes
+[12-Dec-2024 22:15:03 America/Boise] Successfully processed group image
+[12-Dec-2024 22:15:03 America/Boise] PHP Deprecated:  Implicit conversion from float 0.5 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 164
+[12-Dec-2024 22:15:06 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 22:15:06 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 22:15:06 America/Boise] Successfully downloaded image data: 30387 bytes
+[12-Dec-2024 22:15:06 America/Boise] Successfully processed group image
+[12-Dec-2024 22:15:06 America/Boise] PHP Deprecated:  Implicit conversion from float 0.5 to int loses precision in /home1/tzyexbmy/public_html/generate-preview.php on line 164
+[12-Dec-2024 22:16:02 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 22:16:02 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 22:16:02 America/Boise] Successfully downloaded image data: 30387 bytes
+[12-Dec-2024 22:16:02 America/Boise] Successfully processed group image
+[12-Dec-2024 22:16:37 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 22:16:37 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 22:16:37 America/Boise] Successfully downloaded image data: 30387 bytes
+[12-Dec-2024 22:16:37 America/Boise] Successfully processed group image
+[12-Dec-2024 22:16:38 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 22:16:38 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[12-Dec-2024 22:16:38 America/Boise] Successfully downloaded image data: 30387 bytes
+[12-Dec-2024 22:16:38 America/Boise] Successfully processed group image
+[12-Dec-2024 22:17:17 America/Boise] Generating preview for code: EC910D, group: Slime de Belief, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/A5FF0A74-D2FE-4DA0-B1B6-999778F133B2.jpg
+[12-Dec-2024 22:17:17 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/A5FF0A74-D2FE-4DA0-B1B6-999778F133B2.jpg
+[12-Dec-2024 22:17:17 America/Boise] Successfully downloaded image data: 78381 bytes
+[12-Dec-2024 22:17:17 America/Boise] Successfully processed group image
+[12-Dec-2024 22:17:42 America/Boise] Generating preview for code: EC910D, group: Slime de Belief, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/A5FF0A74-D2FE-4DA0-B1B6-999778F133B2.jpg
+[12-Dec-2024 22:17:42 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/A5FF0A74-D2FE-4DA0-B1B6-999778F133B2.jpg
+[12-Dec-2024 22:17:42 America/Boise] Successfully downloaded image data: 78381 bytes
+[12-Dec-2024 22:17:42 America/Boise] Successfully processed group image
+[12-Dec-2024 22:18:06 America/Boise] Generating preview for code: EC910D, group: Slime de Belief, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/A5FF0A74-D2FE-4DA0-B1B6-999778F133B2.jpg
+[12-Dec-2024 22:18:06 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/A5FF0A74-D2FE-4DA0-B1B6-999778F133B2.jpg
+[12-Dec-2024 22:18:06 America/Boise] Successfully downloaded image data: 78381 bytes
+[12-Dec-2024 22:18:06 America/Boise] Successfully processed group image
+[12-Dec-2024 23:42:06 America/Boise] Generating preview for code: A21957, group: Slimes, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/203AC06A-9721-49B3-A97F-15BFE674368D.jpg
+[12-Dec-2024 23:42:06 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/203AC06A-9721-49B3-A97F-15BFE674368D.jpg
+[12-Dec-2024 23:42:07 America/Boise] Successfully downloaded image data: 10575 bytes
+[12-Dec-2024 23:42:07 America/Boise] Successfully processed group image
+[12-Dec-2024 23:42:51 America/Boise] Generating preview for code: A21957, group: Slimes, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/203AC06A-9721-49B3-A97F-15BFE674368D.jpg
+[12-Dec-2024 23:42:51 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/203AC06A-9721-49B3-A97F-15BFE674368D.jpg
+[12-Dec-2024 23:42:51 America/Boise] Successfully downloaded image data: 10575 bytes
+[12-Dec-2024 23:42:51 America/Boise] Successfully processed group image
+[12-Dec-2024 23:43:10 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[12-Dec-2024 23:43:10 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[12-Dec-2024 23:43:10 America/Boise] Successfully downloaded image data: 17362 bytes
+[12-Dec-2024 23:43:10 America/Boise] Successfully processed group image
+[13-Dec-2024 07:30:40 America/Boise] Generating preview for code: CC6AE2, group: More guys   grace, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/BECF6ED4-E055-443E-8A89-487E80A87423.jpg
+[13-Dec-2024 07:30:40 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/BECF6ED4-E055-443E-8A89-487E80A87423.jpg
+[13-Dec-2024 07:30:41 America/Boise] Successfully downloaded image data: 49698 bytes
+[13-Dec-2024 07:30:41 America/Boise] Successfully processed group image
+[13-Dec-2024 07:30:42 America/Boise] Generating preview for code: CC6AE2, group: More guys   grace, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/BECF6ED4-E055-443E-8A89-487E80A87423.jpg
+[13-Dec-2024 07:30:42 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/BECF6ED4-E055-443E-8A89-487E80A87423.jpg
+[13-Dec-2024 07:30:42 America/Boise] Successfully downloaded image data: 49698 bytes
+[13-Dec-2024 07:30:42 America/Boise] Successfully processed group image
+[13-Dec-2024 07:32:59 America/Boise] Generating preview for code: FB7FB0, group: Khanna Fam, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/5AA37B37-56D3-4628-8A88-DD3048DA1CCC.jpg
+[13-Dec-2024 07:32:59 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/5AA37B37-56D3-4628-8A88-DD3048DA1CCC.jpg
+[13-Dec-2024 07:32:59 America/Boise] Generating preview for code: FB7FB0, group: Khanna Fam, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/5AA37B37-56D3-4628-8A88-DD3048DA1CCC.jpg
+[13-Dec-2024 07:32:59 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/5AA37B37-56D3-4628-8A88-DD3048DA1CCC.jpg
+[13-Dec-2024 07:33:00 America/Boise] Successfully downloaded image data: 47966 bytes
+[13-Dec-2024 07:33:00 America/Boise] Successfully processed group image
+[13-Dec-2024 07:33:00 America/Boise] Successfully downloaded image data: 47966 bytes
+[13-Dec-2024 07:33:00 America/Boise] Successfully processed group image
+[13-Dec-2024 08:29:14 America/Boise] Generating preview for code: B92A3B, group: Future Gunk, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/92AD81BA-EDCA-40DE-AA36-430C06EA7F8A.jpg
+[13-Dec-2024 08:29:14 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/92AD81BA-EDCA-40DE-AA36-430C06EA7F8A.jpg
+[13-Dec-2024 08:29:14 America/Boise] Generating preview for code: B92A3B, group: Future Gunk, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/92AD81BA-EDCA-40DE-AA36-430C06EA7F8A.jpg
+[13-Dec-2024 08:29:14 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/92AD81BA-EDCA-40DE-AA36-430C06EA7F8A.jpg
+[13-Dec-2024 08:29:15 America/Boise] Successfully downloaded image data: 65610 bytes
+[13-Dec-2024 08:29:15 America/Boise] Successfully processed group image
+[13-Dec-2024 08:29:15 America/Boise] Successfully downloaded image data: 65610 bytes
+[13-Dec-2024 08:29:15 America/Boise] Successfully processed group image
+[13-Dec-2024 09:17:31 America/Boise] Generating preview for code: 7BE552, group: We ❤️ Allen, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/63A8B9EF-2F79-4D63-90F8-C603644107D9.jpg
+[13-Dec-2024 09:17:31 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/63A8B9EF-2F79-4D63-90F8-C603644107D9.jpg
+[13-Dec-2024 09:17:32 America/Boise] Successfully downloaded image data: 25995 bytes
+[13-Dec-2024 09:17:32 America/Boise] Successfully processed group image
+[13-Dec-2024 09:43:40 America/Boise] Generating preview for code: 7BE552, group: We ❤️ Allen, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/63A8B9EF-2F79-4D63-90F8-C603644107D9.jpg
+[13-Dec-2024 09:43:40 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/63A8B9EF-2F79-4D63-90F8-C603644107D9.jpg
+[13-Dec-2024 09:43:40 America/Boise] Successfully downloaded image data: 25995 bytes
+[13-Dec-2024 09:43:40 America/Boise] Successfully processed group image
+[13-Dec-2024 09:49:13 America/Boise] Generating preview for code: 7BE552, group: We ❤️ Allen, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/63A8B9EF-2F79-4D63-90F8-C603644107D9.jpg
+[13-Dec-2024 09:49:14 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/63A8B9EF-2F79-4D63-90F8-C603644107D9.jpg
+[13-Dec-2024 09:49:14 America/Boise] Successfully downloaded image data: 25995 bytes
+[13-Dec-2024 09:49:14 America/Boise] Successfully processed group image
+[13-Dec-2024 13:38:05 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 13:38:05 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 13:38:05 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 13:38:05 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 13:38:05 America/Boise] Successfully downloaded image data: 17362 bytes
+[13-Dec-2024 13:38:05 America/Boise] Successfully processed group image
+[13-Dec-2024 13:38:05 America/Boise] Successfully downloaded image data: 17362 bytes
+[13-Dec-2024 13:38:05 America/Boise] Successfully processed group image
+[13-Dec-2024 13:38:15 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 13:38:15 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 13:38:15 America/Boise] Successfully downloaded image data: 17362 bytes
+[13-Dec-2024 13:38:15 America/Boise] Successfully processed group image
+[13-Dec-2024 15:36:40 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[13-Dec-2024 15:36:40 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[13-Dec-2024 15:36:41 America/Boise] Successfully downloaded image data: 25036 bytes
+[13-Dec-2024 15:36:41 America/Boise] Successfully processed group image
+[13-Dec-2024 15:36:45 America/Boise] Generating preview for code: D0B537, group: Dick Vice, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[13-Dec-2024 15:36:45 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/34299D23-3E19-4467-8D71-EE8B6BE79B37.jpg
+[13-Dec-2024 15:36:45 America/Boise] Successfully downloaded image data: 25036 bytes
+[13-Dec-2024 15:36:45 America/Boise] Successfully processed group image
+[13-Dec-2024 18:19:36 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 18:19:36 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 18:19:37 America/Boise] Successfully downloaded image data: 17362 bytes
+[13-Dec-2024 18:19:37 America/Boise] Successfully processed group image
+[13-Dec-2024 18:19:47 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 18:19:47 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 18:19:47 America/Boise] Successfully downloaded image data: 17362 bytes
+[13-Dec-2024 18:19:47 America/Boise] Successfully processed group image
+[13-Dec-2024 18:19:54 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 18:19:54 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 18:19:54 America/Boise] Successfully downloaded image data: 17362 bytes
+[13-Dec-2024 18:19:54 America/Boise] Successfully processed group image
+[13-Dec-2024 22:30:31 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 22:30:31 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 22:30:31 America/Boise] Successfully downloaded image data: 17362 bytes
+[13-Dec-2024 22:30:31 America/Boise] Successfully processed group image
+[13-Dec-2024 22:30:44 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 22:30:44 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 22:30:45 America/Boise] Successfully downloaded image data: 17362 bytes
+[13-Dec-2024 22:30:45 America/Boise] Successfully processed group image
+[13-Dec-2024 22:30:59 America/Boise] Generating preview for code: DFMXIL, group: Buzz Gang, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 22:30:59 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/725D778D-3584-4600-8945-22C327AC06D1.jpg
+[13-Dec-2024 22:30:59 America/Boise] Successfully downloaded image data: 17362 bytes
+[13-Dec-2024 22:30:59 America/Boise] Successfully processed group image
+[15-Dec-2024 15:22:43 America/Boise] Generating preview for code: BD47MN, group: OG Smith HR, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[15-Dec-2024 15:22:43 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/D8EAAFA7-BBAF-4B9A-84A9-738B3516075F.jpg
+[15-Dec-2024 15:22:44 America/Boise] Successfully downloaded image data: 30387 bytes
+[15-Dec-2024 15:22:44 America/Boise] Successfully processed group image
+[16-Dec-2024 10:23:51 America/Boise] Generating preview for code: 6F9119, group: Team Crü, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/94A43AD2-3328-47DE-97F9-35C86000E756.jpg
+[16-Dec-2024 10:23:51 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/94A43AD2-3328-47DE-97F9-35C86000E756.jpg
+[16-Dec-2024 10:23:51 America/Boise] Successfully downloaded image data: 23563 bytes
+[16-Dec-2024 10:23:51 America/Boise] Successfully processed group image
+[16-Dec-2024 10:23:54 America/Boise] Generating preview for code: 6F9119, group: Team Crü, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/94A43AD2-3328-47DE-97F9-35C86000E756.jpg
+[16-Dec-2024 10:23:54 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/94A43AD2-3328-47DE-97F9-35C86000E756.jpg
+[16-Dec-2024 10:23:54 America/Boise] Successfully downloaded image data: 23563 bytes
+[16-Dec-2024 10:23:54 America/Boise] Successfully processed group image
+[16-Dec-2024 10:23:55 America/Boise] Generating preview for code: 6F9119, group: Team Crü, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/94A43AD2-3328-47DE-97F9-35C86000E756.jpg
+[16-Dec-2024 10:23:55 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/94A43AD2-3328-47DE-97F9-35C86000E756.jpg
+[16-Dec-2024 10:23:55 America/Boise] Successfully downloaded image data: 23563 bytes
+[16-Dec-2024 10:23:55 America/Boise] Successfully processed group image
+[16-Dec-2024 10:23:55 America/Boise] Generating preview for code: 6F9119, group: Team Crü, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/94A43AD2-3328-47DE-97F9-35C86000E756.jpg
+[16-Dec-2024 10:23:55 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/94A43AD2-3328-47DE-97F9-35C86000E756.jpg
+[16-Dec-2024 10:23:55 America/Boise] Successfully downloaded image data: 23563 bytes
+[16-Dec-2024 10:23:55 America/Boise] Successfully processed group image
+[16-Dec-2024 10:24:25 America/Boise] Generating preview for code: 6F9119, group: Team Crü, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/94A43AD2-3328-47DE-97F9-35C86000E756.jpg
+[16-Dec-2024 10:24:25 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/94A43AD2-3328-47DE-97F9-35C86000E756.jpg
+[16-Dec-2024 10:24:25 America/Boise] Successfully downloaded image data: 23563 bytes
+[16-Dec-2024 10:24:25 America/Boise] Successfully processed group image
+[16-Dec-2024 10:24:48 America/Boise] Generating preview for code: 6F9119, group: Team Crü, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/94A43AD2-3328-47DE-97F9-35C86000E756.jpg
+[16-Dec-2024 10:24:48 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/94A43AD2-3328-47DE-97F9-35C86000E756.jpg
+[16-Dec-2024 10:24:49 America/Boise] Successfully downloaded image data: 23563 bytes
+[16-Dec-2024 10:24:49 America/Boise] Successfully processed group image
+[16-Dec-2024 15:11:37 America/Boise] Generating preview for code: 59991B, group: Keggate   A, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/ED41FF41-57EF-460E-B32B-96908022A761.jpg
+[16-Dec-2024 15:11:37 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/ED41FF41-57EF-460E-B32B-96908022A761.jpg
+[16-Dec-2024 15:11:37 America/Boise] Successfully downloaded image data: 55819 bytes
+[16-Dec-2024 15:11:37 America/Boise] Successfully processed group image
+[16-Dec-2024 15:11:51 America/Boise] Generating preview for code: 59991B, group: Keggate   A, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/ED41FF41-57EF-460E-B32B-96908022A761.jpg
+[16-Dec-2024 15:11:51 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/ED41FF41-57EF-460E-B32B-96908022A761.jpg
+[16-Dec-2024 15:11:51 America/Boise] Successfully downloaded image data: 55819 bytes
+[16-Dec-2024 15:11:51 America/Boise] Successfully processed group image
+[16-Dec-2024 15:27:55 America/Boise] Generating preview for code: 59991B, group: Keggate   A, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/ED41FF41-57EF-460E-B32B-96908022A761.jpg
+[16-Dec-2024 15:27:55 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/ED41FF41-57EF-460E-B32B-96908022A761.jpg
+[16-Dec-2024 15:27:55 America/Boise] Successfully downloaded image data: 55819 bytes
+[16-Dec-2024 15:27:55 America/Boise] Successfully processed group image
+[17-Dec-2024 19:47:13 America/Boise] Generating preview for code: 6F9119, group: Team Crü, image: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/94A43AD2-3328-47DE-97F9-35C86000E756.jpg
+[17-Dec-2024 19:47:13 America/Boise] Attempting to load group image from: https://zhcxpnjwgczjwregidky.supabase.co/storage/v1/object/public/group-pictures/94A43AD2-3328-47DE-97F9-35C86000E756.jpg
+[17-Dec-2024 19:47:13 America/Boise] Successfully downloaded image data: 23563 bytes
+[17-Dec-2024 19:47:13 America/Boise] Successfully processed group image
